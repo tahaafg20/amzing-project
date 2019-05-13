@@ -1,0 +1,46 @@
+body{
+    margin: 20px;
+    background-image: url(img3.jpg);
+    font-size: 24px;
+}
+form{
+  text-align: center;
+}
+nav {
+    background-color: rgb(1, 151, 109);
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    color:lemonchiffon;
+}
+li{
+    list-style: none;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    border: 3px solid rgb(1, 151, 109);
+    border-radius: 20%;
+    display: block;
+    width: 300px;
+  height: 70px;
+  margin-top:19px;
+ margin: 20px auto;
+}
+
+h2{
+  text-align: center;
+}
+.imgcenter{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h3{
+  text-align: center;
+}

@@ -1,0 +1,38 @@
+body{
+    margin: 20px;
+    background:blanchedalmond;
+    font-size: 25px;
+}
+nav {
+    background-color: rgb(1, 151, 109);
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+li{
+    list-style: none;
+    text-align: center;
+}
+.time{
+    display: inline-block;
+    border: solid 3px rgb(1, 151, 109);
+    padding: 12px;
+    padding-left: 20px;
+}
+#locations {
+    text-align: center;
+    display: inline-block;
+    border: solid 3px rgb(1, 151, 109);
+    margin: 0 25% 0 25%;
+    padding: 12px;
+    padding-left: 20px;
+}
+footer {
+    text-align: center;
+    
+}
